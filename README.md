@@ -3,3 +3,4 @@
 
 - 2019/08/09 Added Learning Scala scripts (Scala basics 1 - 4)
 - 2019/08/10 Added Scala exercise scripts (average friends by Name etc...)
+- 2019/08/15 Added Scala boardcasting exercise scripts etc...
